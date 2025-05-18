@@ -1,0 +1,236 @@
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="Zeus711" />
+    <title>
+        ZEUS711
+    </title>
+    <script src="https://cdn.tailwindcss.com">
+    </script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=swap" rel="stylesheet" />
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+        }
+    </style>
+</head>
+</body>
+    <!-- Header -->
+    <header class="bg-black text-white">
+        <div class="container mx-auto flex justify-between items-center py-4 px-6">
+            <img alt="ZEUS888 LOGO" class="h-12" height="2000" src="https://hippiesinthecity.com/img/Zeus711.gif" width="250" />
+            <div class="flex space-x-4">
+                <button class="bg-green-600 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded">
+      LOGIN
+     </button>
+                <button class="bg-green-600 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded">
+      DAFTAR
+     </button>
+            </div>
+        </div>
+        <div></div>
+          <font  face="arial black" size="2" color="white">
+        <span style="background-color:green"></span>
+            <marquee direction="left">
+                SELAMAT DATANG DI ZEUS711 | TERSEDIA BERBAGAI PASARAN TOGEL TERBAIK DAN TERPERCAYA | TERSEDIA BERBAGAI GAME SLOT ONLINE | HANYA DENGAN 1 UNSERID SAJA DENGAN MIN DEPO& WD RP 10.000,-.
+                </marquee>
+ </div>
+    <!-- Banner -->
+    <html>
+<body>
+    <div style="display: flex; justify-content: center;">
+        <img scr="Banner Image" class="w-down" height="1000" src="https://cdn.areabermain.club/assets/cdn/az2/2024/06/25/20240625/31c69bf83d4c774f6d98fa0447f9204d/1400x350.png" width="1540">
+
+    </div>
+</body>
+</html>
+                
+            </div>
+        </div>
+    </section>
+    <!-- Live Chat Section -->
+        <footer class="bg-black text-white py-8">
+    <section class="bg-black py-8">
+        <div class="container mx-auto text-center">
+            <h2 class="text-3xl font-bold text-white-800">
+                LIVE CHAT PRIORITAS 24 JAM
+            </h2>
+            <p class="text-white-600 mt-4">
+                ZEUS711 selalu memberikan pelayanan terbaik dan menyenangkan melayani 1x 24 Jam. Hubungi kami jika anda memiliki pertanyaan apapun kendala anda.
+            </p>
+            <button class="bg-green-600 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded mt-4">
+     <i class="fas fa-comments">
+     </i>
+     CHAT PRIORITAS
+    </button>
+         
+         <h1> 
+         <pre>
+          <!-- Banner -->
+    <section class="relative">
+        <img scr="benner" class="w-current" height="100" src="https://blogger.googleusercontent.com/img/a/AVvXsEjuoc3xXrQqL12OodkjtV3Lnx7UGxJcns3JZIcEiKfdRKEU10sw_4KOVeaCvf1Mm0d2vIaC5t1Nbd9od-xIAjho-bAbQ_bnnZNzujtrdnRRokeKPtXqjNTzHq7ZKmyESeGCBWWATMLox-BkXCQMChfgOpgGxR6ETsDBqlvpp1SsTB03VcPhJxsq_A5OiFs2" width="1720" />
+          </pre>
+    </section>
+    <!-- Links Section -->
+        <footer class="bg-black text-white py-8">
+    <section class="bg-black-200 py-8">
+        <div class="container mx-auto">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                <div class="bg-white p-4 rounded shadow">
+                    <p class="font-bold">
+                        Link Alternatif 1
+                    </p>
+                    <p class="text-gray-600">
+                        🇰🇭 Server Kamboja
+                    </p>
+                    <div class="flex justify-between items-center mt-2">
+                        <span class="text-green-500">
+        ● ONLINE
+       </span>
+                        <button class="bg-green-600 hover:bg-orange-700 text-white font-bold py-1 px-2 rounded">
+        LOGIN
+       </button>
+                    </div>
+                </div>
+                <div class="bg-white p-4 rounded shadow">
+                    <p class="font-bold">
+                        Link Alternatif 2
+                    </p>
+                    <p class="text-gray-600">
+                        🇯🇵 Server Jepang
+                    </p>
+                    <div class="flex justify-between items-center mt-2">
+                        <span class="text-green-500">
+        ● ONLINE
+       </span>
+                        <button class="bg-green-600 hover:bg-orange-700 text-white font-bold py-1 px-2 rounded">
+        LOGIN
+       </button>
+                    </div>
+                </div>
+                <div class="bg-white p-4 rounded shadow">
+                    <p class="font-bold">
+                        Link Alternatif 3
+                    </p>
+                    <p class="text-gray-600">
+                        🇹🇭 Server Thailand
+                    </p>
+                    <div class="flex justify-between items-center mt-2">
+                        <span class="text-green-500">
+        ● ONLINE
+       </span>
+                        <button class="bg-green-600 hover:bg-orange-700 text-white font-bold py-1 px-2 rounded">
+        LOGIN
+       </button>
+                    </div>
+                </div>
+                <div class="bg-white p-4 rounded shadow">
+                    <p class="font-bold">
+                        Link Alternatif 4
+                    </p>
+                    <p class="text-gray-600">
+                        🇺🇸 Server Amerika
+                    </p>
+                    <div class="flex justify-between items-center mt-2">
+                        <span class="text-green-500">
+        ● ONLINE
+       </span>
+                        <button class="bg-green-600 hover:bg-orange-700 text-white font-bold py-1 px-2 rounded">
+        LOGIN
+       </button>
+                    </div>
+                </div>
+                <div class="bg-white p-4 rounded shadow">
+                    <p class="font-bold">
+                        Link Alternatif 5
+                    </p>
+                    <p class="text-gray-600">
+                        🇷🇺 Server Rusia
+                    </p>
+                    <div class="flex justify-between items-center mt-2">
+                        <span class="text-green-500">
+        ● ONLINE
+       </span>
+                        <button class="bg-green-600 hover:bg-orange-700 text-white font-bold py-1 px-2 rounded">
+        LOGIN
+       </button>
+                    </div>
+                </div>
+                <div class="bg-white p-4 rounded shadow">
+                    <p class="font-bold">
+                        Link Alternatif 1
+                    </p>
+                    <p class="text-gray-600">
+                        🇮🇩 Server Indonesia
+                    </p>
+                    <div class="flex justify-between items-center mt-2">
+                        <span class="text-green-500">
+        ● ONLINE
+       </span>
+                        <button class="bg-green-600 hover:bg-orange-700 text-white font-bold py-1 px-2 rounded">
+        LOGIN
+       </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Information Section -->
+    <footer class="bg-black text-white py-8">
+    <section class="bg-black py-8">
+        <div class="container mx-auto">
+            <h2 class="text-2xl font-bold text-white-900 text-center">
+                Akun Togel Terpercaya | Link Alternatif ZEUS711 | Bebas Nawala
+            </h2>
+    <footer class="bg-black text-white py-8">
+            <p class="text-white-800 mt-4 text-justify">
+                ZEUS711 adalah situs resmi bola togel, slot livegames terlengkap dan terpercaya di tanah air, ZEUS711 di beri gelar salah satu BO terpercaya dengan tingkat pelayanan dan keamanan terbaik, dengan pelayanan online 24 jam, proses deposit serta withdraw
+                yang sangat cepat diproses, dan keamanan tingkat tinggi dalam data pemain hingga menyebabkan pemain nyaman dan tenang bermain di situs ZEUS711.
+            </p>
+            <p class="text-white-800 mt-4 text-justify">
+                Tidak hanya itu, ZEUS711 juga menyediakan pemain dalam mengakses beberapa link alternatif terbaik anti nawala, anti lelet, Beberapa hal juga yang akan membuat pemain di ZEUS711 menjadi sangat favorit adalah dengan adanya group prediksi di telegram
+                secara gratis, Rtp slot anti rungkat beserta polanya hingga membuat tingkat kemenangan pemain semakin besar.
+            </p>
+            <p class="text-white-800 mt-4 text-justify">
+                Dengan adanya tingkat winrate kemenangan tinggi ini bisa membuat setiap pemain bisa bergabung didalam nya mendapatkan kemenangan yang sangat tinggi, level kings pasti dibayar, JP berapapun tetap dibayar.
+            </p>
+            <p class="text-white-800 mt-4 text-justify">
+                Info togel hongkong, bandar togel terbaik, cek togel singapore, judi togel terpercaya, daftar togel singapore, togel wap original, togel singapore online, togel seratus rupiah, keluaran lengkap togel, daftar togel terpercaya, togel singapore terpercaya,
+                agen togel terbesar, bandar togel terbesar, togel singapore hongkong, aplikasi togel terpercaya.
+            </p>
+        <div>
+    <section>
+    <!-- Footer -->
+    <footer class="bg-black text-white py-8">
+        <div class="container mx-auto text-center">
+            <h2 class="text-2xl font-bold">
+                Temukan Kami Disini
+            </h2>
+            <div class="flex justify-center space-x-4 mt-4">
+                <a class="text-white text-2xl" href="#">
+      <i class="fab fa-facebook">
+      </i>
+     </a>
+                <a class="text-white text-2xl" href="#">
+      <i class="fab fa-telegram">
+      </i>
+     </a>
+                <a class="text-white text-2xl" href="#">
+      <i class="fab fa-instagram">
+      </i>
+     </a>
+     <a class="text-white text-2xl" href="#">
+      <i class="fab fa-youtube">
+      </i>
+     </a>
+    </div>
+    <p class="text-gray-400 mt-4">
+     ZEUS711 selalu memberikan pelayanan terbaik dan menyenangkan melayani 1x 24 Jam. Hubungi kami jika anda memiliki pertanyaan apapun kendala anda.
+    </p>
+    <p class="text-gray-400 mt-2">
+     Copyright 2023 - ZEUS711, All Rights Reserved.
+    </p>
+   </div>
+  </footer>
